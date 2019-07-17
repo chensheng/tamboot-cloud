@@ -14,7 +14,7 @@
 
     <properties>
         <revision>${project.parent.version}</revision>
-        <tamboot.version>1.0.0-SNAPSHOT</tamboot.version>
+        <tamboot.version>1.4.0.RELEASE</tamboot.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
     </properties>
 
