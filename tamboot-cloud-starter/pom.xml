@@ -30,11 +30,6 @@
                 <artifactId>tamboot-cloud-microservice</artifactId>
                 <version>${revision}</version>
             </dependency>
-            <dependency>
-                <groupId>com.tamboot.cloud</groupId>
-                <artifactId>tamboot-cloud-eureka-server</artifactId>
-                <version>${revision}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 </project>

@@ -20,7 +20,6 @@
         <module>tamboot-cloud-common</module>
         <module>tamboot-cloud-client</module>
         <module>tamboot-cloud-microservice</module>
-        <module>tamboot-cloud-eureka-server</module>
         <module>tamboot-cloud-starter</module>
     </modules>
 
