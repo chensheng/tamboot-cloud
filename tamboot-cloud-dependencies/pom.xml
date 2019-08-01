@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <revision>${project.parent.version}</revision>
+        <revision>1.0.0-SNAPSHOT</revision>
         <tamboot.version>1.4.0.RELEASE</tamboot.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
     </properties>
